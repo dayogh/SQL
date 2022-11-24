@@ -2,11 +2,6 @@
 
 An introduction into SQL through MYSQL.
 
->***Author:*** Philip Wilkinson Head of _Science_ (21/22)
-
->***Contact:*** philip.wilkinson.19@ucl.ac.uk
-
->***Difficulty***: 2/5 ~ 3/5
 
 >***Prerequisite***: `PY01` or basic Python syntax. Experience with `list`, `tuple`, `set` and `dictionary` is desirable, but we will take a closer look into the details.
 
